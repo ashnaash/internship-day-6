@@ -35,6 +35,6 @@ Deploy a simple HTML website using GitHub Pages.
 ---
 
 ### Example Live Link
-[https://yourusername.github.io/repo-name/](https://yourusername.github.io/repo-name/)
+[https://yourusername.github.io/repo-name/](https://github.com/ashnaash/internship-day-6.git)
 
 ---  
